@@ -27,7 +27,7 @@
 *   [Перейти к проекту](https://github.com/Mackerin/Marketplace_product_catalog)
 
 ## Технологический стек
-*   **Backend:** Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Maven
+*   **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Maven
 *   **Базы данных:** PostgreSQL, Liquibase
 *   **Тестирование:** JUnit 5, Mockito, Selenium, Postman
 *   **Инфраструктура:** Docker, Git, GitLab CI
