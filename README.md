@@ -16,7 +16,7 @@
 *   Реализована ролевая модель безопасности, шифрование конфиденциальных данных.
 *   Настроена работа с БД через Spring Data JPA и миграции Liquibase.
 *   Полное покрытие unit- и интеграционными тестами. Документация в Swagger UI.
-*   [Перейти к репозиторию проекта](https://github.com/Mackerin/Bank_rest)
+*   [Перейти к проекту](https://github.com/Mackerin/Bank_rest)
 
 ### **Marketplace Product Catalog**
 **Стек:** Java 17, Spring Boot, PostgreSQL, Docker, Liquibase, Clean Architecture, AOP.
@@ -24,7 +24,7 @@
 *   Реализована **Clean Architecture** с разделением на модули.
 *   Разработаны **кастомные Spring Boot Starter** для аспектно-ориентированного аудита действий и логирования времени выполнения методов.
 *   Настроено кэширование, работа с БД через Liquibase, контейнеризация в Docker.
-*   [Перейти к репозиторию проекта](https://github.com/Mackerin/Marketplace_product_catalog)
+*   [Перейти к проекту](https://github.com/Mackerin/Marketplace_product_catalog)
 
 ## Технологический стек
 *   **Backend:** Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Maven
