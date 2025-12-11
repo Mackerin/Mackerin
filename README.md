@@ -35,7 +35,7 @@
 
 ## Контакты
 *   **Телефон:** +7 (937) 999-36-95
-*   **Email:** [dan_evd@mail.ru](mailto:dan_evd@mail.ru)
+*   **Email:** dan_evd@mail.ru
 *   **Telegram:** @Mackerin
 ---
 *Резюме актуально. Открыт к предложениям о полной или проектной занятости.*
