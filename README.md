@@ -33,10 +33,6 @@
 *   **Инфраструктура:** Docker, Git, GitLab CI
 *   **Архитектура:** REST API, Clean Architecture, принципы SOLID
 
-## Активность на GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackerin&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mackerin&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Контакты
 *   **Телефон:** +7 (937) 999-36-95
 *   **Email:** [dan_evd@mail.ru](mailto:dan_evd@mail.ru)
